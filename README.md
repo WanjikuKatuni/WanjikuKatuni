@@ -1,5 +1,6 @@
-### Hi there 👋
-![Header](./readme.png)
+
+![Header](./redme.png)
+</br> </br>
 
 <p align="center">
 <a href="https://twitter.com/TheKatuni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -8,15 +9,29 @@
   </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wanjikukatuni&theme=dracula)](https://git.io/streak-stats)
-![Wanjiku's GitHub trophy](https://github-profile-trophy.vercel.app/?username=wanjikukatuni&theme=dracula)
+</br> </br>
+</br> </br>
 
-
+  
 ![Wanjiku's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanjikukatuni&show_icons=true&theme=dracula)
+</br> </br>
+</br> </br>
 
+
+
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wanjikukatuni&theme=dracula)](https://git.io/streak-stats)
+
+<!-- ![Wanjiku's GitHub trophy](https://github-profile-trophy.vercel.app/?username=wanjikukatuni&theme=dracula)
+ -->
+
+</br> </br>
+</br> </br>
 
 
 [![Wanjiku's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wanjikukatuni)](https://github.com/wanjikukatuni/github-readme-stats)
+ 
+ 
  
 
 
