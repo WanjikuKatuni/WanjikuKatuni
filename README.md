@@ -1,14 +1,13 @@
 ### Hi there 👋
 
 
-<h3 align="left"> Reach me through:</h3>
 <p align="center">
 <a href="https://twitter.com/TheKatuni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ann-wanjiku-863929187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/ann-wanjiku-863929187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 </p>
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wanjikukatuni&theme=dracula)](https://git.io/streak-stats)
 ![Wanjiku's GitHub trophy](https://github-profile-trophy.vercel.app/?username=wanjikukatuni&theme=radical)
 
 
