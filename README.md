@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./your-header-image-name.png)
+![Header](./readme.png)
 
 <p align="center">
 <a href="https://twitter.com/TheKatuni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
