@@ -28,7 +28,9 @@
 </br> </br>
 </br> </br>
 
-[![Wanjiku's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wanjikukatuni)](https://github.com/wanjikukatuni/github-readme-stats)
+
+<!-- 
+[![Wanjiku's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wanjikukatuni)](https://github.com/wanjikukatuni/github-readme-stats) -->
  
  
 
