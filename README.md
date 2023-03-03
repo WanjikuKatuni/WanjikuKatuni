@@ -2,7 +2,7 @@
 ![Header](./redme.png)
 </br> </br>
 
-<p align="center">
+<p text-align="center">
 <a href="https://twitter.com/TheKatuni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ann-wanjiku-863929187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/ann-wanjiku-863929187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
