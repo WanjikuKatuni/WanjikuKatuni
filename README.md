@@ -17,7 +17,7 @@
 </br> </br>
 </br> </br>
 
-![![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wanjikukatuni&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wanjikukatuni&theme=dracula)](https://git.io/streak-stats)
 
 <!-- ![Wanjiku's GitHub trophy](https://github-profile-trophy.vercel.app/?username=wanjikukatuni&theme=dracula)
  -->
